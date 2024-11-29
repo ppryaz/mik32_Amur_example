@@ -1,0 +1,1 @@
+..\..\tools\bin\openocd.exe -f  .\scripts\m-link.cfg -f .\scripts\mik32.cfg  -f ./scripts/eeprom.tcl -c "eeprom_write_file Debug_EEPROM/systeminfo.hex"  -c "exit"
