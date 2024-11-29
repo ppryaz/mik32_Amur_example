@@ -33,5 +33,6 @@
 - [Сайт производителя](https://mikron.ru/products/mikrokontrollery/mk32-amur/?ysclid=m433334y8n259691795)
 - [Техническое описание MIK32](https://nc.mikron.ru/s/aXSRc8HdLAM2LLg/download)
 - [Wiki по mik32](https://wiki.mik32.ru/Заглавная_страница)
+- [Официальный репозиторий микроконтроллера Mikron MIK32 Амур](https://github.com/MikronMIK32?ysclid=m434su1vbn219021505)
 - [VK Сообщество MIK32 Амур - К1948ВК018](https://vk.com/mik32_amur?ysclid=m4339m5olf94696113)
 - [Форма обращения в техподдержку](https://bugreport.mik32.ru/)
