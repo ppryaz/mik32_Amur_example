@@ -5,6 +5,14 @@
 > В некоторых проектах отдельные файлы библиотеки HAL исправлены и отредактированы. 
 
 #### Различия в разных версиях MikronIDE
-В разных версиях MikronIDE файл memory_map  назван по-разному. Эта версия использует mcu32_memory_map.h
+В разных версиях MikronIDE файл memory_map  назван по-разному. Эта версия использует mcu32_memory_map.h.
+
 Существенное отличие в файле mik32_hal_gpio.h. В нем структура __HAL_PinsTypeDef определяющяя маску выводов заменена на __HAL_PinMapNewTypeDef.
 Отличие заключается в том, что в последней версии  порт и pin определяются одновременно (PORT0_0).
+
+#### Полезные ссылки:
+- [Сайт производителя](https://mikron.ru/products/mikrokontrollery/mk32-amur/?ysclid=m433334y8n259691795)
+- [Техническое описание MIK32](https://nc.mikron.ru/s/aXSRc8HdLAM2LLg/download)
+- [Wiki по mik32](https://wiki.mik32.ru/Заглавная_страница)
+- [VK Сообщество MIK32 Амур - К1948ВК018](https://vk.com/mik32_amur?ysclid=m4339m5olf94696113)
+- [Форма обращения в техподдержку](https://bugreport.mik32.ru/)
