@@ -21,6 +21,7 @@
 - [UART_TX_RX_xprintf](https://github.com/ppryaz/mik32_Amur_example/tree/main/UART_TX_RX_xprintf) - Пример настройки вывода отладочных сообщений по UART
 - [lcd2004a_i2c](https://github.com/ppryaz/mik32_Amur_example/tree/main/lcd2004a_i2c) - Управление дисплеем LCD2004 через I2C
 - [lcd2004a_i2c_RusText](https://github.com/ppryaz/mik32_Amur_example/tree/main/lcd2004a_i2c_RusText)- Работа с дисплеем LCD2004 модель WH2004A_YGH_CT с поддержкой русского языка.
+- [W5500_ethernet](https://github.com/ppryaz/mik32_Amur_example/tree/main/W5500_ethernet) - Пример использования модуля Ethernet W5500
 
 
 #### Различия в разных версиях MikronIDE
