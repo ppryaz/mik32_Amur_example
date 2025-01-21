@@ -1,0 +1,2827 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/../../../../riscv64-unknown-elf/lib/rv32imc/ilp32\libc.a(lib_a-memset.o)
+                              ./src/GUI_Paint.o (memset)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+                              ./src/GUI_Paint.o (__subdf3)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+                              ./src/GUI_Paint.o (__fixdfsi)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+                              ./src/GUI_Paint.o (__floatsidf)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+                              ./src/GUI_Paint.o (__mulsf3)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+                              ./src/GUI_Paint.o (__fixsfsi)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+                              ./src/GUI_Paint.o (__truncdfsf2)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+                              c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o) (__clzsi2)
+c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+                              c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/GUI_Paint.o
+ .text          0x0000000000000000        0x0 ./src/GUI_Paint.o
+ .data          0x0000000000000000        0x0 ./src/GUI_Paint.o
+ .bss           0x0000000000000000       0x2c ./src/GUI_Paint.o
+ .text.Paint_NewImage
+                0x0000000000000000       0x62 ./src/GUI_Paint.o
+ .text.Paint_SelectImage
+                0x0000000000000000        0xa ./src/GUI_Paint.o
+ .text.Paint_SetRotate
+                0x0000000000000000       0x26 ./src/GUI_Paint.o
+ .text.Paint_SetScale
+                0x0000000000000000       0xa0 ./src/GUI_Paint.o
+ .text.Paint_SetMirroring
+                0x0000000000000000       0x12 ./src/GUI_Paint.o
+ .text.Paint_SetPixel
+                0x0000000000000000      0x22a ./src/GUI_Paint.o
+ .text.Paint_Clear
+                0x0000000000000000      0x106 ./src/GUI_Paint.o
+ .text.Paint_ClearWindows
+                0x0000000000000000       0x4c ./src/GUI_Paint.o
+ .text.Paint_DrawPoint
+                0x0000000000000000       0xc8 ./src/GUI_Paint.o
+ .text.Paint_DrawLine
+                0x0000000000000000      0x128 ./src/GUI_Paint.o
+ .text.Paint_DrawRectangle
+                0x0000000000000000       0xc6 ./src/GUI_Paint.o
+ .text.Paint_DrawCircle
+                0x0000000000000000      0x272 ./src/GUI_Paint.o
+ .text.Paint_DrawChar
+                0x0000000000000000      0x110 ./src/GUI_Paint.o
+ .text.Paint_DrawString_EN
+                0x0000000000000000       0xb0 ./src/GUI_Paint.o
+ .text.Paint_DrawNum
+                0x0000000000000000      0x1ae ./src/GUI_Paint.o
+ .text.Paint_DrawBitMap
+                0x0000000000000000       0x46 ./src/GUI_Paint.o
+ .text.Paint_DrawBitMap_Block
+                0x0000000000000000       0x58 ./src/GUI_Paint.o
+ .srodata.cst4  0x0000000000000000        0x4 ./src/GUI_Paint.o
+ .debug_info    0x0000000000000000     0x124d ./src/GUI_Paint.o
+ .debug_abbrev  0x0000000000000000      0x218 ./src/GUI_Paint.o
+ .debug_loclists
+                0x0000000000000000     0x1003 ./src/GUI_Paint.o
+ .debug_aranges
+                0x0000000000000000       0xa0 ./src/GUI_Paint.o
+ .debug_rnglists
+                0x0000000000000000       0xdf ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x249 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x75a ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x1c ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x22 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x8e ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x51 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x103 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x6a ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x1df ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0xc3 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x19 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x58 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x34 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x34 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x16 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x11c ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x94 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x16 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x43 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x34 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x10 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x52 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x182 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x341 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x16 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x29 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x1c ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x35 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x10 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x10 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x1c ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x52 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x22 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x10 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x52 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0xd5 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x1c ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x3d ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x16 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x16f ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000       0x16 ./src/GUI_Paint.o
+ .debug_macro   0x0000000000000000      0x19b ./src/GUI_Paint.o
+ .debug_line    0x0000000000000000     0x1d45 ./src/GUI_Paint.o
+ .debug_str     0x0000000000000000     0x7ec9 ./src/GUI_Paint.o
+ .debug_line_str
+                0x0000000000000000      0x30a ./src/GUI_Paint.o
+ .comment       0x0000000000000000       0x19 ./src/GUI_Paint.o
+ .debug_frame   0x0000000000000000      0x29c ./src/GUI_Paint.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/GUI_Paint.o
+ .group         0x0000000000000000        0xc ./src/ImageData.o
+ .text          0x0000000000000000        0x0 ./src/ImageData.o
+ .data          0x0000000000000000        0x0 ./src/ImageData.o
+ .bss           0x0000000000000000        0x0 ./src/ImageData.o
+ .rodata        0x0000000000000000      0x406 ./src/ImageData.o
+ .debug_info    0x0000000000000000       0x7a ./src/ImageData.o
+ .debug_abbrev  0x0000000000000000       0x5f ./src/ImageData.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./src/ImageData.o
+ .debug_macro   0x0000000000000000       0x1b ./src/ImageData.o
+ .debug_macro   0x0000000000000000      0x75a ./src/ImageData.o
+ .debug_line    0x0000000000000000       0x3f ./src/ImageData.o
+ .debug_str     0x0000000000000000     0x2594 ./src/ImageData.o
+ .debug_line_str
+                0x0000000000000000       0x96 ./src/ImageData.o
+ .comment       0x0000000000000000       0x19 ./src/ImageData.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/ImageData.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3.o
+ .text          0x0000000000000000        0x0 ./src/OLED_1in3.o
+ .data          0x0000000000000000        0x0 ./src/OLED_1in3.o
+ .bss           0x0000000000000000        0x0 ./src/OLED_1in3.o
+ .text.OLED_1in3_Reset
+                0x0000000000000000       0x46 ./src/OLED_1in3.o
+ .text.OLED_1in3_WriteReg
+                0x0000000000000000       0x58 ./src/OLED_1in3.o
+ .text.OLED_1in3_InitReg
+                0x0000000000000000      0x120 ./src/OLED_1in3.o
+ .text.OLED_1in3_WriteData
+                0x0000000000000000       0x5a ./src/OLED_1in3.o
+ .text.OLED_1in3_WriteMultiData
+                0x0000000000000000       0x74 ./src/OLED_1in3.o
+ .text.OLED_1IN3_Init
+                0x0000000000000000       0x32 ./src/OLED_1in3.o
+ .text.OLED_1IN3_Clear
+                0x0000000000000000       0x5a ./src/OLED_1in3.o
+ .text.OLED_1IN3_Display
+                0x0000000000000000       0x78 ./src/OLED_1in3.o
+ .debug_info    0x0000000000000000      0x68b ./src/OLED_1in3.o
+ .debug_abbrev  0x0000000000000000      0x194 ./src/OLED_1in3.o
+ .debug_loclists
+                0x0000000000000000      0x127 ./src/OLED_1in3.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./src/OLED_1in3.o
+ .debug_rnglists
+                0x0000000000000000       0x68 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000      0x1a9 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000      0x75a ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x22 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x52 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x19 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x94 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x34 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x34 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x16 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x57 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x9e ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000      0x341 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000      0x10b ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x16 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x43 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x34 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x52 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000      0x182 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x6a ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x1c ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x52 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x22 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x52 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0xd5 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x1c ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x3d ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000       0x16 ./src/OLED_1in3.o
+ .debug_macro   0x0000000000000000      0x16f ./src/OLED_1in3.o
+ .debug_line    0x0000000000000000      0x4d4 ./src/OLED_1in3.o
+ .debug_str     0x0000000000000000     0x662a ./src/OLED_1in3.o
+ .debug_line_str
+                0x0000000000000000      0x2a0 ./src/OLED_1in3.o
+ .comment       0x0000000000000000       0x19 ./src/OLED_1in3.o
+ .debug_frame   0x0000000000000000      0x11c ./src/OLED_1in3.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/OLED_1in3.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/OLED_1in3_test.o
+ .text          0x0000000000000000        0x0 ./src/OLED_1in3_test.o
+ .data          0x0000000000000000        0x0 ./src/OLED_1in3_test.o
+ .bss           0x0000000000000000      0x400 ./src/OLED_1in3_test.o
+ .rodata.str1.4
+                0x0000000000000000       0x18 ./src/OLED_1in3_test.o
+ .text.OLED_1in3_test
+                0x0000000000000000      0x2b0 ./src/OLED_1in3_test.o
+ .srodata.cst8  0x0000000000000000       0x10 ./src/OLED_1in3_test.o
+ .debug_info    0x0000000000000000      0x80e ./src/OLED_1in3_test.o
+ .debug_abbrev  0x0000000000000000      0x13e ./src/OLED_1in3_test.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/OLED_1in3_test.o
+ .debug_rnglists
+                0x0000000000000000       0x16 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x177 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x75a ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x1c ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x22 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x8e ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x51 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x103 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x6a ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x1df ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0xc3 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x19 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x58 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x34 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x34 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x16 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x11c ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x94 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x16 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x43 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x34 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x52 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x182 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x341 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x16 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x29 ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000      0x19b ./src/OLED_1in3_test.o
+ .debug_macro   0x0000000000000000       0x10 ./src/OLED_1in3_test.o
+ .debug_line    0x0000000000000000      0x235 ./src/OLED_1in3_test.o
+ .debug_str     0x0000000000000000     0x6bf4 ./src/OLED_1in3_test.o
+ .debug_line_str
+                0x0000000000000000      0x28b ./src/OLED_1in3_test.o
+ .comment       0x0000000000000000       0x19 ./src/OLED_1in3_test.o
+ .debug_frame   0x0000000000000000       0x2c ./src/OLED_1in3_test.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/OLED_1in3_test.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font12.o
+ .text          0x0000000000000000        0x0 ./src/font12.o
+ .data          0x0000000000000000        0x0 ./src/font12.o
+ .bss           0x0000000000000000        0x0 ./src/font12.o
+ .rodata        0x0000000000000000      0x474 ./src/font12.o
+ .sdata         0x0000000000000000        0x8 ./src/font12.o
+ .debug_info    0x0000000000000000      0x12c ./src/font12.o
+ .debug_abbrev  0x0000000000000000       0xb1 ./src/font12.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./src/font12.o
+ .debug_macro   0x0000000000000000       0x6c ./src/font12.o
+ .debug_macro   0x0000000000000000      0x75a ./src/font12.o
+ .debug_macro   0x0000000000000000       0x1c ./src/font12.o
+ .debug_macro   0x0000000000000000       0x22 ./src/font12.o
+ .debug_macro   0x0000000000000000       0x8e ./src/font12.o
+ .debug_macro   0x0000000000000000       0x51 ./src/font12.o
+ .debug_macro   0x0000000000000000      0x103 ./src/font12.o
+ .debug_macro   0x0000000000000000       0x6a ./src/font12.o
+ .debug_macro   0x0000000000000000      0x1df ./src/font12.o
+ .debug_line    0x0000000000000000       0x72 ./src/font12.o
+ .debug_str     0x0000000000000000     0x350f ./src/font12.o
+ .debug_line_str
+                0x0000000000000000      0x1c4 ./src/font12.o
+ .comment       0x0000000000000000       0x19 ./src/font12.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/font12.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font16.o
+ .text          0x0000000000000000        0x0 ./src/font16.o
+ .data          0x0000000000000000        0x0 ./src/font16.o
+ .bss           0x0000000000000000        0x0 ./src/font16.o
+ .rodata        0x0000000000000000      0xbe0 ./src/font16.o
+ .sdata         0x0000000000000000        0x8 ./src/font16.o
+ .debug_info    0x0000000000000000      0x12c ./src/font16.o
+ .debug_abbrev  0x0000000000000000       0xb1 ./src/font16.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./src/font16.o
+ .debug_macro   0x0000000000000000       0x6c ./src/font16.o
+ .debug_macro   0x0000000000000000      0x75a ./src/font16.o
+ .debug_macro   0x0000000000000000       0x1c ./src/font16.o
+ .debug_macro   0x0000000000000000       0x22 ./src/font16.o
+ .debug_macro   0x0000000000000000       0x8e ./src/font16.o
+ .debug_macro   0x0000000000000000       0x51 ./src/font16.o
+ .debug_macro   0x0000000000000000      0x103 ./src/font16.o
+ .debug_macro   0x0000000000000000       0x6a ./src/font16.o
+ .debug_macro   0x0000000000000000      0x1df ./src/font16.o
+ .debug_line    0x0000000000000000       0x72 ./src/font16.o
+ .debug_str     0x0000000000000000     0x350f ./src/font16.o
+ .debug_line_str
+                0x0000000000000000      0x1c4 ./src/font16.o
+ .comment       0x0000000000000000       0x19 ./src/font16.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/font16.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/font8.o
+ .text          0x0000000000000000        0x0 ./src/font8.o
+ .data          0x0000000000000000        0x0 ./src/font8.o
+ .bss           0x0000000000000000        0x0 ./src/font8.o
+ .rodata        0x0000000000000000      0x2f8 ./src/font8.o
+ .sdata         0x0000000000000000        0x8 ./src/font8.o
+ .debug_info    0x0000000000000000      0x12c ./src/font8.o
+ .debug_abbrev  0x0000000000000000       0xb1 ./src/font8.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./src/font8.o
+ .debug_macro   0x0000000000000000       0x6c ./src/font8.o
+ .debug_macro   0x0000000000000000      0x75a ./src/font8.o
+ .debug_macro   0x0000000000000000       0x1c ./src/font8.o
+ .debug_macro   0x0000000000000000       0x22 ./src/font8.o
+ .debug_macro   0x0000000000000000       0x8e ./src/font8.o
+ .debug_macro   0x0000000000000000       0x51 ./src/font8.o
+ .debug_macro   0x0000000000000000      0x103 ./src/font8.o
+ .debug_macro   0x0000000000000000       0x6a ./src/font8.o
+ .debug_macro   0x0000000000000000      0x1df ./src/font8.o
+ .debug_line    0x0000000000000000       0x72 ./src/font8.o
+ .debug_str     0x0000000000000000     0x350d ./src/font8.o
+ .debug_line_str
+                0x0000000000000000      0x1c1 ./src/font8.o
+ .comment       0x0000000000000000       0x19 ./src/font8.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/font8.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/i2c_driver.o
+ .text          0x0000000000000000        0x0 ./src/i2c_driver.o
+ .data          0x0000000000000000        0x0 ./src/i2c_driver.o
+ .bss           0x0000000000000000        0x0 ./src/i2c_driver.o
+ .text.OLED_RST_1
+                0x0000000000000000        0xe ./src/i2c_driver.o
+ .text.OLED_RST_0
+                0x0000000000000000        0xe ./src/i2c_driver.o
+ .text.Driver_Delay_ms
+                0x0000000000000000       0x1e ./src/i2c_driver.o
+ .text.HAL_Delay
+                0x0000000000000000       0x1c ./src/i2c_driver.o
+ .text.iic_init
+                0x0000000000000000       0x68 ./src/i2c_driver.o
+ .text.iic_start
+                0x0000000000000000       0x28 ./src/i2c_driver.o
+ .text.iic_write_byte
+                0x0000000000000000       0x82 ./src/i2c_driver.o
+ .text.iic_wait_for_ack
+                0x0000000000000000       0x46 ./src/i2c_driver.o
+ .text.iic_stop
+                0x0000000000000000       0x50 ./src/i2c_driver.o
+ .debug_info    0x0000000000000000      0x425 ./src/i2c_driver.o
+ .debug_abbrev  0x0000000000000000      0x15d ./src/i2c_driver.o
+ .debug_loclists
+                0x0000000000000000       0x8c ./src/i2c_driver.o
+ .debug_aranges
+                0x0000000000000000       0x60 ./src/i2c_driver.o
+ .debug_rnglists
+                0x0000000000000000       0x5e ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x10d ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x75a ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x505 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x16 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x22 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x52 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x19 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x94 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x34 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x103 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x3a ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x57 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x6a ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x1df ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x89 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x4cc ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000       0x34 ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x1fc ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x2bc ./src/i2c_driver.o
+ .debug_macro   0x0000000000000000      0x1c0 ./src/i2c_driver.o
+ .debug_line    0x0000000000000000      0x545 ./src/i2c_driver.o
+ .debug_str     0x0000000000000000     0x95c2 ./src/i2c_driver.o
+ .debug_line_str
+                0x0000000000000000      0x2b3 ./src/i2c_driver.o
+ .comment       0x0000000000000000       0x19 ./src/i2c_driver.o
+ .debug_frame   0x0000000000000000      0x110 ./src/i2c_driver.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/i2c_driver.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .debug_macro   0x0000000000000000      0x75a ./src/main.o
+ .debug_macro   0x0000000000000000      0x505 ./src/main.o
+ .debug_macro   0x0000000000000000      0x1c0 ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .debug_macro   0x0000000000000000       0x52 ./src/main.o
+ .debug_macro   0x0000000000000000       0x19 ./src/main.o
+ .debug_macro   0x0000000000000000       0x94 ./src/main.o
+ .debug_macro   0x0000000000000000       0x34 ./src/main.o
+ .debug_macro   0x0000000000000000      0x103 ./src/main.o
+ .debug_macro   0x0000000000000000       0x3a ./src/main.o
+ .debug_macro   0x0000000000000000       0x57 ./src/main.o
+ .debug_macro   0x0000000000000000       0x6a ./src/main.o
+ .debug_macro   0x0000000000000000      0x1df ./src/main.o
+ .debug_macro   0x0000000000000000       0x89 ./src/main.o
+ .debug_macro   0x0000000000000000      0x4cc ./src/main.o
+ .debug_macro   0x0000000000000000       0x16 ./src/main.o
+ .debug_macro   0x0000000000000000       0x34 ./src/main.o
+ .debug_macro   0x0000000000000000      0x2bc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/mikron_logo.o
+ .text          0x0000000000000000        0x0 ./src/mikron_logo.o
+ .data          0x0000000000000000        0x0 ./src/mikron_logo.o
+ .bss           0x0000000000000000        0x0 ./src/mikron_logo.o
+ .rodata        0x0000000000000000      0x800 ./src/mikron_logo.o
+ .debug_info    0x0000000000000000       0x70 ./src/mikron_logo.o
+ .debug_abbrev  0x0000000000000000       0x4a ./src/mikron_logo.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./src/mikron_logo.o
+ .debug_macro   0x0000000000000000      0x692 ./src/mikron_logo.o
+ .debug_macro   0x0000000000000000      0x75a ./src/mikron_logo.o
+ .debug_line    0x0000000000000000       0x3a ./src/mikron_logo.o
+ .debug_str     0x0000000000000000     0x3381 ./src/mikron_logo.o
+ .debug_line_str
+                0x0000000000000000       0x90 ./src/mikron_logo.o
+ .comment       0x0000000000000000       0x19 ./src/mikron_logo.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./src/mikron_logo.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/uart_lib.o
+ .text          0x0000000000000000        0x0 ./src/uart_lib.o
+ .data          0x0000000000000000        0x0 ./src/uart_lib.o
+ .bss           0x0000000000000000        0x0 ./src/uart_lib.o
+ .text.UART_IsTxBufferFreed
+                0x0000000000000000        0xc ./src/uart_lib.o
+ .text.UART_Write
+                0x0000000000000000       0x40 ./src/uart_lib.o
+ .text.UART_IsRxFifoEmpty
+                0x0000000000000000        0xc ./src/uart_lib.o
+ .text.UART_IsRxFifoFull
+                0x0000000000000000       0x1a ./src/uart_lib.o
+ .text.UART_WaitReceiving
+                0x0000000000000000       0x1c ./src/uart_lib.o
+ .text.UART_ReadByte
+                0x0000000000000000        0x8 ./src/uart_lib.o
+ .text.UART_Read
+                0x0000000000000000       0x3e ./src/uart_lib.o
+ .text.UART_ClearRxFifo
+                0x0000000000000000       0x20 ./src/uart_lib.o
+ .text.xputc    0x0000000000000000       0x2c ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x75a ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x17e ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x22 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x52 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x19 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x94 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x34 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x103 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x3a ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x57 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x6a ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x1df ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x89 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x4cc ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x1c0 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x16 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x505 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x300 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x16 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x34 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x1c ./src/uart_lib.o
+ .debug_macro   0x0000000000000000       0x22 ./src/uart_lib.o
+ .debug_macro   0x0000000000000000      0x2bc ./src/uart_lib.o
+ .group         0x0000000000000000        0xc ./src/xprintf.o
+ .group         0x0000000000000000        0xc ./src/xprintf.o
+ .group         0x0000000000000000        0xc ./src/xprintf.o
+ .text          0x0000000000000000        0x0 ./src/xprintf.o
+ .data          0x0000000000000000        0x0 ./src/xprintf.o
+ .bss           0x0000000000000000        0x0 ./src/xprintf.o
+ .text.xfputc   0x0000000000000000       0x2c ./src/xprintf.o
+ .text.xfputs   0x0000000000000000       0x3a ./src/xprintf.o
+ .text.xsprintf
+                0x0000000000000000       0x3e ./src/xprintf.o
+ .text.xfprintf
+                0x0000000000000000       0x3e ./src/xprintf.o
+ .rodata.str1.4
+                0x0000000000000000       0x1f ./src/xprintf.o
+ .text.put_dump
+                0x0000000000000000       0xdc ./src/xprintf.o
+ .text.xgets    0x0000000000000000       0x90 ./src/xprintf.o
+ .text.xfgets   0x0000000000000000       0x30 ./src/xprintf.o
+ .text.xatoi    0x0000000000000000      0x100 ./src/xprintf.o
+ .sbss          0x0000000000000000        0xc ./src/xprintf.o
+ .debug_macro   0x0000000000000000      0x75a ./src/xprintf.o
+ .debug_macro   0x0000000000000000       0x4c ./src/xprintf.o
+ .data          0x0000000000000000        0x0 ./runtime/crt0.o
+ .bss           0x0000000000000000        0x0 ./runtime/crt0.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal.o
+ .text.HAL_MspInit
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal.o
+ .text.HAL_Init
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_info    0x0000000000000000      0x1c1 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_abbrev  0x0000000000000000       0xbd ./HAL/peripherals/Source/mik32_hal.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_rnglists
+                0x0000000000000000       0x1f ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0xf1 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal.o
+ .debug_line    0x0000000000000000      0x10a ./HAL/peripherals/Source/mik32_hal.o
+ .debug_str     0x0000000000000000     0x9deb ./HAL/peripherals/Source/mik32_hal.o
+ .debug_line_str
+                0x0000000000000000      0x313 ./HAL/peripherals/Source/mik32_hal.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal.o
+ .debug_frame   0x0000000000000000       0x3c ./HAL/peripherals/Source/mik32_hal.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_MspInit
+                0x0000000000000000      0x12c ./HAL/peripherals/Source/mik32_hal_adc.o
+ .rodata        0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_CLBEnable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_CLBDisable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_VCLBSet
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_ICLBSet
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_ResetEnable
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_ResetDisable
+                0x0000000000000000       0x1e ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_Disable
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_Enable
+                0x0000000000000000       0x32 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_ChannelSet
+                0x0000000000000000       0x26 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_Init
+                0x0000000000000000       0x86 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_Single
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_ContinuousDisabled
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_ContinuousEnable
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_WaitValid
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_GetValue
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_adc.o
+ .text.HAL_ADC_WaitAndGetValue
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_info    0x0000000000000000      0xb3c ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_abbrev  0x0000000000000000      0x1d6 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_loclists
+                0x0000000000000000      0x114 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_aranges
+                0x0000000000000000       0xa0 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_rnglists
+                0x0000000000000000       0xa6 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x12d ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x1e4 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_macro   0x0000000000000000       0x9d ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_line    0x0000000000000000      0x825 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_str     0x0000000000000000     0xb5bb ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_line_str
+                0x0000000000000000      0x36a ./HAL/peripherals/Source/mik32_hal_adc.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_adc.o
+ .debug_frame   0x0000000000000000      0x16c ./HAL/peripherals/Source/mik32_hal_adc.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_adc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC32_MspInit
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_SetPoly
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_SetInputReverse
+                0x0000000000000000       0x1e ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_SetOutputInversion
+                0x0000000000000000       0x1e ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_SetOutputReverse
+                0x0000000000000000       0x1e ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_SetInit
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_Init
+                0x0000000000000000       0x40 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_WaitBusy
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_WriteData
+                0x0000000000000000       0xa0 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_WriteData32
+                0x0000000000000000       0x42 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .text.HAL_CRC_ReadCRC
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_info    0x0000000000000000      0x533 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_abbrev  0x0000000000000000      0x170 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_loclists
+                0x0000000000000000      0x1ab ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_rnglists
+                0x0000000000000000       0x70 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0xfa ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x88 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_line    0x0000000000000000      0x648 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_str     0x0000000000000000     0xa2ab ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_line_str
+                0x0000000000000000      0x331 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .debug_frame   0x0000000000000000      0x10c ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_crc32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_CRYPTO_MspInit
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_CounterReset
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_WaitReady
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_SetAlgorithm
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_SetCipherMode
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_SetSwapMode
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_SetOrderMode
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_SetIV
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_SetKey
+                0x0000000000000000       0x50 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_Init
+                0x0000000000000000       0x50 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_Encode
+                0x0000000000000000       0xc6 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .text.HAL_Crypto_Decode
+                0x0000000000000000       0xc8 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_info    0x0000000000000000      0x666 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_abbrev  0x0000000000000000      0x168 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_loclists
+                0x0000000000000000      0x334 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_rnglists
+                0x0000000000000000       0xd8 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0xc4 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_macro   0x0000000000000000       0x9a ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_line    0x0000000000000000      0x9b3 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_str     0x0000000000000000     0xa81a ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_line_str
+                0x0000000000000000      0x345 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .debug_frame   0x0000000000000000      0x12c ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_crypto.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_MspInit
+                0x0000000000000000       0x84 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_CLBEnable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_CLBDisable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_VCLBSet
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_ICLBSet
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_SetDiv
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_ResetEnable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_ResetDisable
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_Disable
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_Enable
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_Init
+                0x0000000000000000       0xae ./HAL/peripherals/Source/mik32_hal_dac.o
+ .text.HAL_DAC_SetValue
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_info    0x0000000000000000      0x9c0 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_abbrev  0x0000000000000000      0x1c7 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_loclists
+                0x0000000000000000      0x108 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_rnglists
+                0x0000000000000000       0x79 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x12d ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000      0x1e4 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_macro   0x0000000000000000       0x40 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_line    0x0000000000000000      0x5e8 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_str     0x0000000000000000     0xb2b6 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_line_str
+                0x0000000000000000      0x36a ./HAL/peripherals/Source/mik32_hal_dac.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .debug_frame   0x0000000000000000      0x110 ./HAL/peripherals/Source/mik32_hal_dac.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_dac.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_MspInit
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_SetChannel
+                0x0000000000000000        0x4 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ClearLocalIrq
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ClearGlobalIrq
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ClearErrorIrq
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ClearIrq
+                0x0000000000000000       0x2c ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_SetCurrentValue
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_GlobalIRQEnable
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ErrorIRQEnable
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_LocalIRQEnable
+                0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_Init
+                0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_Wait
+                0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_GetChannelReadyStatus
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_GetChannelIrq
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_GetBusError
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ChannelDisable
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_ChannelEnable
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x7e ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_info    0x0000000000000000      0x8e2 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_abbrev  0x0000000000000000      0x1a9 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_loclists
+                0x0000000000000000      0x2aa ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_aranges
+                0x0000000000000000       0xa8 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_rnglists
+                0x0000000000000000       0xaf ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x12e ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x112 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_macro   0x0000000000000000      0x19c ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_line    0x0000000000000000      0x9c6 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_str     0x0000000000000000     0xb677 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_line_str
+                0x0000000000000000      0x360 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .debug_frame   0x0000000000000000      0x150 ./HAL/peripherals/Source/mik32_hal_dma.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_dma.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_WritePin
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_TogglePin
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_InitInterruptLine
+                0x0000000000000000       0xc4 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_DeInitInterruptLine
+                0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_LineInterruptState
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_LinePinState
+                0x0000000000000000       0x18 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .text.HAL_GPIO_ClearInterrupts
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .sbss          0x0000000000000000        0x4 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_gpio.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_MspInit
+                0x0000000000000000       0x86 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Disable
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Reset
+                0x0000000000000000       0x18 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Enable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_AnalogFilterInit
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_DigitalFilterInit
+                0x0000000000000000       0x2c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_SetClockSpeed
+                0x0000000000000000       0x3c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_NoStretchMode
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_OwnAddress1
+                0x0000000000000000       0x76 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_OwnAddress2
+                0x0000000000000000       0x38 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_GeneralCall
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_SBCMode
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_SlaveInit
+                0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_MasterInit
+                0x0000000000000000        0x2 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Init
+                0x0000000000000000       0x8a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_AutoEnd
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_WaitTC
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_WaitTCR
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_WaitTXIS
+                0x0000000000000000       0x4a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_WaitRXNE
+                0x0000000000000000       0x3e ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_SlaveAddress
+                0x0000000000000000       0x58 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_WaitBusy
+                0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_NBYTES
+                0x0000000000000000       0x8a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_Transmit
+                0x0000000000000000      0x1b6 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_Receive
+                0x0000000000000000      0x1b8 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_WaitADDR
+                0x0000000000000000       0x1e ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_WaitTXIS
+                0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_WaitRXNE
+                0x0000000000000000       0x92 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Transmit
+                0x0000000000000000       0xea ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Receive
+                0x0000000000000000       0xa0 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_WaitTCR
+                0x0000000000000000       0x18 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_ACK
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_NACK
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_SBC
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_ReceiveSBC
+                0x0000000000000000       0xf8 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_Transmit_DMA
+                0x0000000000000000       0x9a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_Receive_DMA
+                0x0000000000000000       0x9a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Transmit_DMA
+                0x0000000000000000       0x98 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Receive_DMA
+                0x0000000000000000       0x76 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_InterruptDisable
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_InterruptEnable
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_Transmit_IT
+                0x0000000000000000       0x68 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Master_Receive_IT
+                0x0000000000000000       0x68 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Transmit_IT
+                0x0000000000000000       0x76 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Transmit_NOSTRETCH_IT
+                0x0000000000000000       0x76 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Receive_IT
+                0x0000000000000000       0x60 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_Receive_NOSTRETCH_IT
+                0x0000000000000000       0x60 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .text.HAL_I2C_Slave_ReceiveSBC_IT
+                0x0000000000000000       0x62 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_info    0x0000000000000000     0x1f93 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_abbrev  0x0000000000000000      0x2fb ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_loclists
+                0x0000000000000000     0x13f5 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_aranges
+                0x0000000000000000      0x198 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_rnglists
+                0x0000000000000000      0x209 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x146 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x2f4 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x112 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000      0x19c ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_line    0x0000000000000000     0x32d6 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_str     0x0000000000000000     0xd28e ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_line_str
+                0x0000000000000000      0x376 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .debug_frame   0x0000000000000000      0x500 ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_i2c.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_IRQ_EnableInterrupts
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_IRQ_DisableInterrupts
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_EPIC_MaskSet
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_EPIC_MaskClear
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_EPIC_MaskLevelSet
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_EPIC_MaskLevelClear
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_EPIC_GetStatus
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_irq.o
+ .text.HAL_EPIC_GetRawStatus
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_info    0x0000000000000000      0x22b ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_abbrev  0x0000000000000000      0x115 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_rnglists
+                0x0000000000000000       0x55 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0xf1 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0xfa ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0x40 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000       0xee ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_macro   0x0000000000000000      0x1c4 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_line    0x0000000000000000      0x26e ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_str     0x0000000000000000     0x8265 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_line_str
+                0x0000000000000000      0x315 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .debug_frame   0x0000000000000000       0x90 ./HAL/peripherals/Source/mik32_hal_irq.o
+ .riscv.attributes
+                0x0000000000000000       0x3f ./HAL/peripherals/Source/mik32_hal_irq.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_MspInit
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_PowerOff
+                0x0000000000000000       0x2c ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_SetUppRead
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_SetReadCur
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OPT_TimeInit
+                0x0000000000000000       0xd0 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OPT_SetReadMode
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_Init
+                0x0000000000000000       0x3c ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_WaitBSY
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_WriteTestColumn
+                0x0000000000000000       0x48 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_WriteTestRow
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_WriteTestBit
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_Write
+                0x0000000000000000       0x46 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_ReadTestColumn
+                0x0000000000000000       0x88 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_ReadTestRow
+                0x0000000000000000       0x32 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_ReadTestBit
+                0x0000000000000000       0x32 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .text.HAL_OTP_Read
+                0x0000000000000000       0x82 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_info    0x0000000000000000      0x83a ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_abbrev  0x0000000000000000      0x1e2 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_loclists
+                0x0000000000000000      0x689 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_aranges
+                0x0000000000000000       0x98 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_rnglists
+                0x0000000000000000       0xd6 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x136 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000      0x106 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x46 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_line    0x0000000000000000      0xcf5 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_str     0x0000000000000000     0xaae1 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_line_str
+                0x0000000000000000      0x36f ./HAL/peripherals/Source/mik32_hal_otp.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .debug_frame   0x0000000000000000      0x1e0 ./HAL/peripherals/Source/mik32_hal_otp.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_otp.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_OscEnable
+                0x0000000000000000       0x50 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_OscDisable
+                0x0000000000000000       0x58 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_FreqMonRefSet
+                0x0000000000000000       0x7c ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_SetOscSystem
+                0x0000000000000000       0x82 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_RTCClock
+                0x0000000000000000       0x80 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_CPURTCClock
+                0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_DividerAHB
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_DividerAPB_M
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_DividerAPB_P
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_Config
+                0x0000000000000000       0xf0 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_ClockConfig
+                0x0000000000000000       0x2a ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_ClockSet
+                0x0000000000000000       0x44 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_ClockClear
+                0x0000000000000000       0x44 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .text.HAL_PCC_GetSysClockFreq
+                0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_info    0x0000000000000000      0x816 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_abbrev  0x0000000000000000      0x203 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_loclists
+                0x0000000000000000      0x4f1 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_aranges
+                0x0000000000000000       0x88 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_rnglists
+                0x0000000000000000       0x8b ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0xf5 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_line    0x0000000000000000      0xc19 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_str     0x0000000000000000     0xa47e ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_line_str
+                0x0000000000000000      0x31f ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .debug_frame   0x0000000000000000      0x124 ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_pcc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_MspInit
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_WaitFlag
+                0x0000000000000000       0x2a ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_Disable
+                0x0000000000000000       0x28 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_Enable
+                0x0000000000000000       0x24 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_SetTime
+                0x0000000000000000       0x62 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_SetDate
+                0x0000000000000000       0x6e ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_Alarm_SetTime
+                0x0000000000000000       0x66 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_Alarm_SetDate
+                0x0000000000000000       0x74 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_SetAlarm
+                0x0000000000000000       0x2a ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_AlarmDisable
+                0x0000000000000000       0x3e ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_ClearAlrmFlag
+                0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_GetAlrmFlag
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_GetDate
+                0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_GetTime
+                0x0000000000000000       0x80 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_SetInterruptAlarm
+                0x0000000000000000       0x28 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_InterruptInit
+                0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .text.HAL_RTC_GetINTE
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_info    0x0000000000000000      0xa39 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_abbrev  0x0000000000000000      0x215 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_loclists
+                0x0000000000000000      0x59c ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_aranges
+                0x0000000000000000       0xa0 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_rnglists
+                0x0000000000000000       0xa6 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x124 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000      0x196 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_macro   0x0000000000000000       0x82 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_line    0x0000000000000000      0xc20 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_str     0x0000000000000000     0xabd1 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_line_str
+                0x0000000000000000      0x359 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .debug_frame   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_rtc.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_MspInit
+                0x0000000000000000      0x1a4 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_SetDelayBTWN
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_SetDelayAFTER
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_SetDelayINIT
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_SetSlaveIdleCounter
+                0x0000000000000000        0x6 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_SetThresholdTX
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_ReadModuleID
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_ClearTXFIFO
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_ClearRXFIFO
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_ClearError
+                0x0000000000000000       0x32 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_Enable
+                0x0000000000000000       0x1e ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_Disable
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_Init
+                0x0000000000000000       0xd6 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_CS_Enable
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_CS_Disable
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_Exchange
+                0x0000000000000000      0x116 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .text.HAL_SPI_Exchange_IT
+                0x0000000000000000       0x5a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_info    0x0000000000000000      0xdda ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_abbrev  0x0000000000000000      0x350 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_loclists
+                0x0000000000000000      0x5db ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_aranges
+                0x0000000000000000       0xa0 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_rnglists
+                0x0000000000000000      0x131 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x12d ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x189 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x35 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x1cc ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_macro   0x0000000000000000      0x12d ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_line    0x0000000000000000      0xe47 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_str     0x0000000000000000     0xba6e ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_line_str
+                0x0000000000000000      0x359 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .debug_frame   0x0000000000000000      0x1d4 ./HAL/peripherals/Source/mik32_hal_spi.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_spi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.HAL_SPIFI_MspInit
+                0x0000000000000000       0x5e ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.HAL_SPIFI_MemoryMode_Init
+                0x0000000000000000       0x66 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.SPIFI_WaitIntrqTimeout
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.HAL_SPIFI_SendCommand
+                0x0000000000000000       0x7a ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.HAL_SPIFI_IsMemoryModeEnabled
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.HAL_SPIFI_Reset
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .text.HAL_SPIFI_IsReady
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_info    0x0000000000000000      0xaa9 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_abbrev  0x0000000000000000      0x217 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_loclists
+                0x0000000000000000       0xef ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_aranges
+                0x0000000000000000       0x50 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_rnglists
+                0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x128 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_macro   0x0000000000000000      0x1fc ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_line    0x0000000000000000      0x55c ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_str     0x0000000000000000     0xbcac ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_line_str
+                0x0000000000000000      0x36d ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .debug_frame   0x0000000000000000       0xac ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_spifi.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_TIMER16_MspInit
+                0x0000000000000000      0x1bc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Disable
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Enable
+                0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetActiveEdge
+                0x0000000000000000       0x2e ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetSourceClock
+                0x0000000000000000       0xa0 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetCountMode
+                0x0000000000000000       0x48 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_ClockInit
+                0x0000000000000000       0x2a ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetPreload
+                0x0000000000000000       0x48 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_WaitARROK
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_WaitCMPOK
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetARR
+                0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetCMP
+                0x0000000000000000       0x20 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SelectTrigger
+                0x0000000000000000       0x32 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetTriggerEdge
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetTimeOut
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetFilterExternalClock
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetFilterTrigger
+                0x0000000000000000       0x36 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetEncoderMode
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_WaveformPolarity
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetPrescaler
+                0x0000000000000000       0x36 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Init
+                0x0000000000000000       0x9a ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_GetCounterValue
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_CheckCMP
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_WaitCMP
+                0x0000000000000000        0xa ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Counter_Start
+                0x0000000000000000       0x38 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_StartPWM
+                0x0000000000000000       0x64 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_StartOneShot
+                0x0000000000000000       0x64 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_StartSetOnes
+                0x0000000000000000       0x62 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Encoder_Start
+                0x0000000000000000       0x56 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Encoder_Stop
+                0x0000000000000000       0x24 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Stop
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Counter_Start_IT
+                0x0000000000000000       0x48 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_StartPWM_IT
+                0x0000000000000000       0x84 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_StartOneShot_IT
+                0x0000000000000000       0x84 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_StartSetOnes_IT
+                0x0000000000000000       0x82 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Encoder_Start_IT
+                0x0000000000000000       0x74 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Encoder_Stop_IT
+                0x0000000000000000       0x2e ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_Stop_IT
+                0x0000000000000000       0x2e ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_WaitTrigger
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptMask
+                0x0000000000000000       0x48 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptDOWN
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptUP
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptARROK
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptCMPOK
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptEXTTRIG
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptARRM
+                0x0000000000000000       0x12 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_SetInterruptCMPM
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .text.HAL_Timer16_InterruptInit
+                0x0000000000000000       0x70 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_info    0x0000000000000000     0x1974 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_abbrev  0x0000000000000000      0x2d9 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_loclists
+                0x0000000000000000      0xb1d ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_aranges
+                0x0000000000000000      0x198 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_rnglists
+                0x0000000000000000      0x1d0 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x12d ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x328 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_macro   0x0000000000000000      0x261 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_line    0x0000000000000000     0x1b85 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_str     0x0000000000000000     0xcaed ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_line_str
+                0x0000000000000000      0x377 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .debug_frame   0x0000000000000000      0x59c ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_timer16.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .data          0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .bss           0x0000000000000000        0x0 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_TIMER32_MspInit
+                0x0000000000000000       0xaa ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_TIMER32_Channel_MspInit
+                0x0000000000000000       0x6e ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_State_Set
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Top_Set
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Prescaler_Set
+                0x0000000000000000        0x8 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Source_Set
+                0x0000000000000000       0xae ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .rodata        0x0000000000000000       0x18 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_InterruptMask_Set
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_InterruptMask_Clear
+                0x0000000000000000       0x14 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_CountMode_Set
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Init
+                0x0000000000000000       0x98 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_InterruptFlags_ClearMask
+                0x0000000000000000        0x6 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_Enable
+                0x0000000000000000       0x26 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_Disable
+                0x0000000000000000       0x24 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_PWM_Invert_Set
+                0x0000000000000000       0x26 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_Mode_Set
+                0x0000000000000000       0x26 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_CaptureEdge_Set
+                0x0000000000000000       0x24 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_OCR_Set
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_ICR_Set
+                0x0000000000000000       0x1a ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_ICR_Clear
+                0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_Noise_Set
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_Init
+                0x0000000000000000       0x80 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Channel_DeInit
+                0x0000000000000000       0x72 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Start
+                0x0000000000000000       0x10 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Stop
+                0x0000000000000000        0xe ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Base_Start_IT
+                0x0000000000000000       0x24 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Base_Stop_IT
+                0x0000000000000000       0x24 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_PWM_Start_IT
+                0x0000000000000000       0x54 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_PWM_Stop_IT
+                0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Compare_Start_IT
+                0x0000000000000000       0x5c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Compare_Stop_IT
+                0x0000000000000000       0x3c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Capture_Start_IT
+                0x0000000000000000       0x5c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Capture_Stop_IT
+                0x0000000000000000       0x3c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Start_IT
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .text.HAL_Timer32_Stop_IT
+                0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_info    0x0000000000000000     0x1384 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_abbrev  0x0000000000000000      0x2c3 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_loclists
+                0x0000000000000000      0x857 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_aranges
+                0x0000000000000000      0x128 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_rnglists
+                0x0000000000000000      0x13f ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x124 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x4c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000      0x16c ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_macro   0x0000000000000000       0x4f ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_line    0x0000000000000000     0x1202 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_str     0x0000000000000000     0xb92b ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_line_str
+                0x0000000000000000      0x36d ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .comment       0x0000000000000000       0x19 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .debug_frame   0x0000000000000000      0x358 ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/peripherals/Source/mik32_hal_timer32.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .group         0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text          0x0000000000000000        0x0 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .data          0x0000000000000000        0x0 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .bss           0x0000000000000000        0x0 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_Enable
+                0x0000000000000000        0xc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_Disable
+                0x0000000000000000       0x16 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_SetClockSource
+                0x0000000000000000       0x24 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_SetDivider
+                0x0000000000000000       0x16 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_Init
+                0x0000000000000000       0x30 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_Start
+                0x0000000000000000       0x5a ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_SCR1_Timer_GetFlagCMP
+                0x0000000000000000       0x30 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text.HAL_DelayMs
+                0x0000000000000000       0x2e ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_info    0x0000000000000000      0x48c ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_abbrev  0x0000000000000000      0x12c ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_loclists
+                0x0000000000000000      0x15f ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_rnglists
+                0x0000000000000000       0x55 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x109 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x75a ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x505 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x1c0 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x22 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x52 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x19 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x94 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x34 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x103 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x3a ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x57 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x6a ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x1df ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x89 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x4cc ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x2e ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x16 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x17e ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000      0x300 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_macro   0x0000000000000000       0x1c ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_line    0x0000000000000000      0x4c0 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_str     0x0000000000000000     0xa0be ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_line_str
+                0x0000000000000000      0x37b ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .comment       0x0000000000000000       0x19 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .debug_frame   0x0000000000000000       0xc8 ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .riscv.attributes
+                0x0000000000000000       0x3b ./HAL/core/Source/mik32_hal_scr1_timer.o
+ .text          0x0000000000000000       0xa8 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/../../../../riscv64-unknown-elf/lib/rv32imc/ilp32\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/../../../../riscv64-unknown-elf/lib/rv32imc/ilp32\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/../../../../riscv64-unknown-elf/lib/rv32imc/ilp32\libc.a(lib_a-memset.o)
+ .riscv.attributes
+                0x0000000000000000       0x24 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/../../../../riscv64-unknown-elf/lib/rv32imc/ilp32\libc.a(lib_a-memset.o)
+ .text          0x0000000000000000      0x674 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_info    0x0000000000000000      0x4f5 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_abbrev  0x0000000000000000      0x176 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_loclists
+                0x0000000000000000     0x1248 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_rnglists
+                0x0000000000000000      0x275 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_line    0x0000000000000000     0x118b c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_str     0x0000000000000000      0x2b1 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_line_str
+                0x0000000000000000      0x1c2 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .debug_frame   0x0000000000000000       0x44 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(subdf3.o)
+ .text          0x0000000000000000       0x66 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_info    0x0000000000000000      0x1ca c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x0000000000000000      0x15d c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_loclists
+                0x0000000000000000      0x167 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_rnglists
+                0x0000000000000000       0x1f c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_line    0x0000000000000000      0x1db c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_str     0x0000000000000000      0x1be c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_line_str
+                0x0000000000000000      0x1cf c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .debug_frame   0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixdfsi.o)
+ .text          0x0000000000000000       0x6c c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_info    0x0000000000000000      0x268 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_abbrev  0x0000000000000000      0x164 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_loclists
+                0x0000000000000000      0x134 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_rnglists
+                0x0000000000000000       0x61 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_line    0x0000000000000000      0x223 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_str     0x0000000000000000      0x25b c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_line_str
+                0x0000000000000000      0x1d5 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .debug_frame   0x0000000000000000       0x38 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(floatsidf.o)
+ .text          0x0000000000000000      0x256 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_info    0x0000000000000000      0x354 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_abbrev  0x0000000000000000      0x15b c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_loclists
+                0x0000000000000000      0x4f0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_rnglists
+                0x0000000000000000       0xbd c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_line    0x0000000000000000      0x77b c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_str     0x0000000000000000      0x299 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_line_str
+                0x0000000000000000      0x1cc c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000000       0x4c c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .text          0x0000000000000000       0x5e c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_info    0x0000000000000000      0x1b1 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_abbrev  0x0000000000000000      0x15d c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_loclists
+                0x0000000000000000      0x106 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_rnglists
+                0x0000000000000000       0x1f c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_line    0x0000000000000000      0x1db c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_str     0x0000000000000000      0x1ac c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_line_str
+                0x0000000000000000      0x1cf c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .text          0x0000000000000000      0x126 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_info    0x0000000000000000      0x26f c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_abbrev  0x0000000000000000      0x141 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_loclists
+                0x0000000000000000      0x310 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_rnglists
+                0x0000000000000000       0x68 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_line    0x0000000000000000      0x471 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_str     0x0000000000000000      0x23d c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_line_str
+                0x0000000000000000      0x1d7 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_frame   0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(truncdfsf2.o)
+ .text          0x0000000000000000       0x3c c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_info    0x0000000000000000      0x142 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000000000000000       0xca c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_loclists
+                0x0000000000000000       0x62 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_rnglists
+                0x0000000000000000       0x28 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_line    0x0000000000000000       0xcb c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_str     0x0000000000000000      0x1c1 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_line_str
+                0x0000000000000000      0x1b6 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000000000000000       0x20 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .rodata        0x0000000000000000      0x100 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .debug_info    0x0000000000000000       0xd8 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .debug_abbrev  0x0000000000000000       0x70 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .debug_aranges
+                0x0000000000000000       0x18 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .debug_line    0x0000000000000000       0x3f c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .debug_str     0x0000000000000000      0x1a4 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .debug_line_str
+                0x0000000000000000      0x1b6 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .comment       0x0000000000000000       0x19 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000080000000 0x0000000000800000 xr
+ram              0x0000000002000000 0x0000000000004000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/GUI_Paint.o
+LOAD ./src/ImageData.o
+LOAD ./src/OLED_1in3.o
+LOAD ./src/OLED_1in3_test.o
+LOAD ./src/font12.o
+LOAD ./src/font16.o
+LOAD ./src/font8.o
+LOAD ./src/i2c_driver.o
+LOAD ./src/main.o
+LOAD ./src/mikron_logo.o
+LOAD ./src/uart_lib.o
+LOAD ./src/xprintf.o
+LOAD ./runtime/crt0.o
+LOAD ./HAL/peripherals/Source/mik32_hal.o
+LOAD ./HAL/peripherals/Source/mik32_hal_adc.o
+LOAD ./HAL/peripherals/Source/mik32_hal_crc32.o
+LOAD ./HAL/peripherals/Source/mik32_hal_crypto.o
+LOAD ./HAL/peripherals/Source/mik32_hal_dac.o
+LOAD ./HAL/peripherals/Source/mik32_hal_dma.o
+LOAD ./HAL/peripherals/Source/mik32_hal_gpio.o
+LOAD ./HAL/peripherals/Source/mik32_hal_i2c.o
+LOAD ./HAL/peripherals/Source/mik32_hal_irq.o
+LOAD ./HAL/peripherals/Source/mik32_hal_otp.o
+LOAD ./HAL/peripherals/Source/mik32_hal_pcc.o
+LOAD ./HAL/peripherals/Source/mik32_hal_rtc.o
+LOAD ./HAL/peripherals/Source/mik32_hal_spi.o
+LOAD ./HAL/peripherals/Source/mik32_hal_spifi.o
+LOAD ./HAL/peripherals/Source/mik32_hal_timer16.o
+LOAD ./HAL/peripherals/Source/mik32_hal_timer32.o
+LOAD ./HAL/core/Source/mik32_hal_scr1_timer.o
+LOAD c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/../../../../riscv64-unknown-elf/lib/rv32imc/ilp32\libc.a
+LOAD c:/mikronide/riscv-gcc/bin/../lib/gcc/riscv64-unknown-elf/12.2.1/rv32imc/ilp32\libgcc.a
+                0x0000000000000400                STACK_SIZE = 0x400
+                0x0000000000000010                CL_SIZE = 0x10
+
+.text           0x0000000080000000      0x7e0
+                0x0000000080000000                PROVIDE (__TEXT_START__ = .)
+ *crt0.o(.text .text.*)
+ .text          0x0000000080000000       0x76 ./runtime/crt0.o
+                0x0000000080000000                _start
+                0x0000000080000074                SystemInit
+                0x0000000080000074                SmallSystemInit
+ *(.text.smallsysteminit)
+ *(.text.SmallSystemInit)
+                0x00000000800000c0                . = (ORIGIN (rom) + 0xc0)
+ *fill*         0x0000000080000076       0x4a 
+ *crt0.o(.trap_text)
+ .trap_text     0x00000000800000c0       0x94 ./runtime/crt0.o
+                0x00000000800000c0                trap_entry
+                0x00000000800000c4                raw_trap_handler
+ *(.text)
+ *(.text.*)
+ .text.ClockConfig
+                0x0000000080000154       0x34 ./src/main.o
+ .text.GPIO_Init
+                0x0000000080000188       0x40 ./src/main.o
+ .text.trap_handler
+                0x00000000800001c8       0x82 ./src/main.o
+                0x00000000800001c8                trap_handler
+ .text.main     0x000000008000024a       0x4c ./src/main.o
+                0x000000008000024a                main
+ .text.xputc    0x0000000080000296       0x20 ./src/main.o
+                0x0000000080000296                xputc
+ .text.HAL_UART_MspInit
+                0x00000000800002b6       0x72 ./src/uart_lib.o
+                0x00000000800002b6                HAL_UART_MspInit
+ .text.UART_Init
+                0x0000000080000328       0x84 ./src/uart_lib.o
+                0x0000000080000328                UART_Init
+ .text.UART_IsTransmissionFinished
+                0x00000000800003ac       0x10 ./src/uart_lib.o
+                0x00000000800003ac                UART_IsTransmissionFinished
+ .text.UART_WaitTransmission
+                0x00000000800003bc       0x16 ./src/uart_lib.o
+                0x00000000800003bc                UART_WaitTransmission
+ .text.UART_WriteByte
+                0x00000000800003d2        0x4 ./src/uart_lib.o
+                0x00000000800003d2                UART_WriteByte
+ .text.xputs    0x00000000800003d6       0x1c ./src/xprintf.o
+                0x00000000800003d6                xputs
+ .text.xvprintf
+                0x00000000800003f2      0x27c ./src/xprintf.o
+ .text.xprintf  0x000000008000066e       0x1e ./src/xprintf.o
+                0x000000008000066e                xprintf
+ .text.HAL_GPIO_Init
+                0x000000008000068c       0xe4 ./HAL/peripherals/Source/mik32_hal_gpio.o
+                0x000000008000068c                HAL_GPIO_Init
+ *(.rodata)
+ *fill*         0x0000000080000770        0x0 
+ .rodata        0x0000000080000770       0x5c ./src/xprintf.o
+ *(.rodata.*)
+ .rodata.str1.4
+                0x00000000800007cc        0xc ./src/main.o
+                0x00000000800007e0                . = ALIGN (CL_SIZE)
+ *fill*         0x00000000800007d8        0x8 
+                0x00000000800007e0                PROVIDE (__TEXT_END__ = .)
+
+.rela.dyn       0x00000000800007e0        0x0
+ .rela.text.ClockConfig
+                0x00000000800007e0        0x0 ./src/main.o
+ .rela.text     0x00000000800007e0        0x0 ./src/main.o
+ .rela.trap_text
+                0x00000000800007e0        0x0 ./src/main.o
+
+.data           0x0000000002000000        0x0 load address 0x00000000800007e0
+                0x0000000002000000                PROVIDE (__DATA_START__ = .)
+                0x0000000002000000                _gp = .
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.data .data.*)
+                0x0000000002000000                . = ALIGN (CL_SIZE)
+                0x00000000800007e0                __DATA_IMAGE_START__ = LOADADDR (.data)
+                0x00000000800007e0                __DATA_IMAGE_END__ = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000000001                ASSERT ((__DATA_IMAGE_END__ < (ORIGIN (rom) + LENGTH (rom))), Data image overflows rom section)
+
+.tdata          0x0000000002000000        0x0
+                [!provide]                        PROVIDE (_tls_data = .)
+                [!provide]                        PROVIDE (_tdata_begin = .)
+ *(.tdata .tdata.*)
+                [!provide]                        PROVIDE (_tdata_end = .)
+                0x0000000002000000                . = ALIGN (CL_SIZE)
+
+.tbss           0x0000000002000000        0x0
+                0x0000000002000000                PROVIDE (__BSS_START__ = .)
+ *(.tbss .tbss.*)
+                0x0000000002000000                . = ALIGN (CL_SIZE)
+                [!provide]                        PROVIDE (_tbss_end = .)
+
+.sbss
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.scommon)
+
+.bss            0x0000000002000000        0x0
+ *(.bss .bss.*)
+                0x0000000002000000                . = ALIGN (CL_SIZE)
+                0x0000000002000000                PROVIDE (__BSS_END__ = .)
+                0x0000000002000000                _end = .
+                [!provide]                        PROVIDE (__end = .)
+
+.stack          0x0000000002003c00      0x400
+ FILL mask 0x00000000
+                [!provide]                        PROVIDE (__STACK_START__ = .)
+                0x0000000002004000                . = (. + STACK_SIZE)
+ *fill*         0x0000000002003c00      0x400 00000000
+                0x0000000002004000                PROVIDE (__C_STACK_TOP__ = .)
+                [!provide]                        PROVIDE (__STACK_END__ = .)
+
+/DISCARD/
+ *(.eh_frame .eh_frame.*)
+OUTPUT(template.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x21c4
+ .debug_info    0x0000000000000000      0x58f ./src/main.o
+ .debug_info    0x000000000000058f      0x96a ./src/uart_lib.o
+ .debug_info    0x0000000000000ef9      0x6eb ./src/xprintf.o
+ .debug_info    0x00000000000015e4       0x23 ./runtime/crt0.o
+ .debug_info    0x0000000000001607      0xbbd ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_abbrev   0x0000000000000000      0x83f
+ .debug_abbrev  0x0000000000000000      0x1f1 ./src/main.o
+ .debug_abbrev  0x00000000000001f1      0x1e7 ./src/uart_lib.o
+ .debug_abbrev  0x00000000000003d8      0x260 ./src/xprintf.o
+ .debug_abbrev  0x0000000000000638       0x12 ./runtime/crt0.o
+ .debug_abbrev  0x000000000000064a      0x1f5 ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_loclists
+                0x0000000000000000      0xfcd
+ .debug_loclists
+                0x0000000000000000       0x26 ./src/main.o
+ .debug_loclists
+                0x0000000000000026      0x39b ./src/uart_lib.o
+ .debug_loclists
+                0x00000000000003c1      0x940 ./src/xprintf.o
+ .debug_loclists
+                0x0000000000000d01      0x2cc ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_aranges  0x0000000000000000      0x1c0
+ .debug_aranges
+                0x0000000000000000       0x40 ./src/main.o
+ .debug_aranges
+                0x0000000000000040       0x88 ./src/uart_lib.o
+ .debug_aranges
+                0x00000000000000c8       0x70 ./src/xprintf.o
+ .debug_aranges
+                0x0000000000000138       0x28 ./runtime/crt0.o
+ .debug_aranges
+                0x0000000000000160       0x60 ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_rnglists
+                0x0000000000000000      0x1ad
+ .debug_rnglists
+                0x0000000000000000       0x3a ./src/main.o
+ .debug_rnglists
+                0x000000000000003a       0x8b ./src/uart_lib.o
+ .debug_rnglists
+                0x00000000000000c5       0x70 ./src/xprintf.o
+ .debug_rnglists
+                0x0000000000000135       0x1a ./runtime/crt0.o
+ .debug_rnglists
+                0x000000000000014f       0x5e ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_macro    0x0000000000000000     0x2503
+ .debug_macro   0x0000000000000000      0x165 ./src/main.o
+ .debug_macro   0x0000000000000165     0x1886 ./src/main.o
+ .debug_macro   0x00000000000019eb       0x76 ./src/main.o
+ .debug_macro   0x0000000000001a61       0xee ./src/main.o
+ .debug_macro   0x0000000000001b4f       0x1c ./src/main.o
+ .debug_macro   0x0000000000001b6b       0xfa ./src/main.o
+ .debug_macro   0x0000000000001c65       0x22 ./src/main.o
+ .debug_macro   0x0000000000001c87       0x70 ./src/main.o
+ .debug_macro   0x0000000000001cf7      0x17e ./src/main.o
+ .debug_macro   0x0000000000001e75       0x16 ./src/main.o
+ .debug_macro   0x0000000000001e8b      0x300 ./src/main.o
+ .debug_macro   0x000000000000218b       0x52 ./src/main.o
+ .debug_macro   0x00000000000021dd       0x4c ./src/main.o
+ .debug_macro   0x0000000000002229      0x128 ./src/uart_lib.o
+ .debug_macro   0x0000000000002351       0x4c ./src/uart_lib.o
+ .debug_macro   0x000000000000239d       0x23 ./src/xprintf.o
+ .debug_macro   0x00000000000023c0       0x58 ./src/xprintf.o
+ .debug_macro   0x0000000000002418       0xeb ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_line     0x0000000000000000     0x224c
+ .debug_line    0x0000000000000000      0x429 ./src/main.o
+ .debug_line    0x0000000000000429      0x64a ./src/uart_lib.o
+ .debug_line    0x0000000000000a73     0x1008 ./src/xprintf.o
+ .debug_line    0x0000000000001a7b       0xe0 ./runtime/crt0.o
+ .debug_line    0x0000000000001b5b      0x6f1 ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_str      0x0000000000000000    0x1271c
+ .debug_str     0x0000000000000000    0x11067 ./src/main.o
+                                      0x11234 (size before relaxing)
+ .debug_str     0x0000000000011067      0x2c7 ./src/uart_lib.o
+                                       0xb61d (size before relaxing)
+ .debug_str     0x000000000001132e      0x19c ./src/xprintf.o
+                                       0x28a8 (size before relaxing)
+ .debug_str     0x00000000000114ca       0x4a ./runtime/crt0.o
+ .debug_str     0x0000000000011514     0x1208 ./HAL/peripherals/Source/mik32_hal_gpio.o
+                                       0x7f8a (size before relaxing)
+
+.debug_line_str
+                0x0000000000000000      0x395
+ .debug_line_str
+                0x0000000000000000      0x312 ./src/main.o
+                                        0x36e (size before relaxing)
+ .debug_line_str
+                0x0000000000000312       0x12 ./src/uart_lib.o
+                                        0x32a (size before relaxing)
+ .debug_line_str
+                0x0000000000000324       0x1a ./src/xprintf.o
+                                         0xd9 (size before relaxing)
+ .debug_line_str
+                0x000000000000033e       0x12 ./runtime/crt0.o
+                                         0x45 (size before relaxing)
+ .debug_line_str
+                0x0000000000000350       0x45 ./HAL/peripherals/Source/mik32_hal_gpio.o
+                                        0x31d (size before relaxing)
+
+.comment        0x0000000000000000       0x18
+ .comment       0x0000000000000000       0x18 ./src/main.o
+                                         0x19 (size before relaxing)
+ .comment       0x0000000000000018       0x19 ./src/uart_lib.o
+ .comment       0x0000000000000018       0x19 ./src/xprintf.o
+ .comment       0x0000000000000018       0x19 ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.riscv.attributes
+                0x0000000000000000       0x3f
+ .riscv.attributes
+                0x0000000000000000       0x3f ./src/main.o
+ .riscv.attributes
+                0x000000000000003f       0x3b ./src/uart_lib.o
+ .riscv.attributes
+                0x000000000000007a       0x3b ./src/xprintf.o
+ .riscv.attributes
+                0x00000000000000b5       0x3d ./runtime/crt0.o
+ .riscv.attributes
+                0x00000000000000f2       0x3b ./HAL/peripherals/Source/mik32_hal_gpio.o
+
+.debug_frame    0x0000000000000000      0x458
+ .debug_frame   0x0000000000000000       0x78 ./src/main.o
+ .debug_frame   0x0000000000000078      0x1a0 ./src/uart_lib.o
+ .debug_frame   0x0000000000000218      0x1a0 ./src/xprintf.o
+ .debug_frame   0x00000000000003b8       0xa0 ./HAL/peripherals/Source/mik32_hal_gpio.o
