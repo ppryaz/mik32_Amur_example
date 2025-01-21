@@ -23,6 +23,9 @@
 - [lcd2004a_i2c_RusText](https://github.com/ppryaz/mik32_Amur_example/tree/main/lcd2004a_i2c_RusText)- Работа с дисплеем LCD2004 модель WH2004A_YGH_CT с поддержкой русского языка.
 - [W5500_ethernet](https://github.com/ppryaz/mik32_Amur_example/tree/main/W5500_ethernet) - Пример использования модуля Ethernet W5500
 - [SD_spi_FatFS](https://github.com/ppryaz/mik32_Amur_example/tree/main/SD_spi_FatFS) - Использование FatFs для работы с SD картой
+- [SNC28J60_ethernet](https://github.com/ppryaz/mik32_Amur_example/tree/main/SNC28J60_ethernet) - Пример использования модуля Ethernet SNC28J60
+- [SNC28J60_ethernetUIP](https://github.com/ppryaz/mik32_Amur_example/tree/main/SNC28J60_ethernetUIP) - Модуль Ethernet SNC28J60 c библиотекой uIP
+- [UART_receive_packet_unknow_length](https://github.com/ppryaz/mik32_Amur_example/tree/main/UART_receive_packet_unknow_length) - Пример приема по UART пакетов неизвестной длины 
 
 
 #### Различия в разных версиях MikronIDE
@@ -38,3 +41,4 @@
 - [Официальный репозиторий микроконтроллера Mikron MIK32 Амур](https://github.com/MikronMIK32?ysclid=m434su1vbn219021505)
 - [VK Сообщество MIK32 Амур - К1948ВК018](https://vk.com/mik32_amur?ysclid=m4339m5olf94696113)
 - [Форма обращения в техподдержку](https://bugreport.mik32.ru/)
+- [Полезные примеры от пользователя](https://github.com/ogneyar/mik32-examples) [Ogneyar](https://github.com/ogneyar)
